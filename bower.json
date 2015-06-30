@@ -1,0 +1,28 @@
+{
+  "name": "HTML5-toolset-new",
+  "version": "0.0.1",
+  "homepage": "https://github.com/addinall/HTML5-toolset-new",
+  "description": "New HTML Toolset",
+  "main": "index.php",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "Sass",
+    "AngularJS",
+    "SlimPHP"
+  ],
+  "authors": [
+    "Mark Addinall"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

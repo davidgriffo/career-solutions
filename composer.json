@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "vrana/notorm":"dev-master"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "bower install"
+        ],
+        "post-update-cmd": [
+            "bower install"
+        ]
+    }
+}
